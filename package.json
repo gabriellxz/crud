@@ -1,0 +1,14 @@
+{
+  "name": "trabalho_de_poo",
+  "version": "1.0.0",
+  "description": "trabalho bimestral de POO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
